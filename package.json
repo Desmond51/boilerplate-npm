@@ -1,16 +1,19 @@
 {
-	"author": "Desmond Teko",
-	"description": "This is a practical project in mastering node.js",
-	"dependencies": {
-		"express": "^4.14.0",
-		"foo": "^0.0.7"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "author": "Desmond Teko",
+  "description": "This is a practical project in mastering node.js",
+  "keywords": [
+    "freecodecamp", "node.js", "learning nodejs"
+  ],
+  "dependencies": {
+    "express": "^4.14.0",
+    "foo": "^0.0.7"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
