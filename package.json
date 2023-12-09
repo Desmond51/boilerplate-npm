@@ -1,5 +1,6 @@
 {
 	"author": "Desmond Teko",
+	"description": "This is a practical project in mastering node.js",
 	"dependencies": {
 		"express": "^4.14.0",
 		"foo": "^0.0.7"
