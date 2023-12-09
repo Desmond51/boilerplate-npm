@@ -5,6 +5,7 @@
     "freecodecamp", "node.js", "learning nodejs"
   ],
   "license": "MIT",
+  "version": "1.3.0",
   "dependencies": {
     "express": "^4.14.0",
     "foo": "^0.0.7"
